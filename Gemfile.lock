@@ -1,5 +1,7 @@
-PATH
-  remote: /Users/frank/projects/ember-cli-rails-tests/ember-cli-rails
+GIT
+  remote: https://github.com/gniquil/ember-cli-rails.git
+  revision: 94112bbfffb7234e8526be036c58bb188dc371af
+  branch: with-rails-assets
   specs:
     ember-cli-rails (0.1.11)
       railties (>= 3.1, < 5)

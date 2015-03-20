@@ -43,4 +43,4 @@ group :development, :test do
   gem 'spring'
 end
 
-gem 'ember-cli-rails', :path => "/Users/frank/projects/ember-cli-rails-tests/ember-cli-rails"
+gem 'ember-cli-rails', git: "https://github.com/gniquil/ember-cli-rails.git", branch: "with-rails-assets"
